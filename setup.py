@@ -7,11 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-collin-campbell", # Replace with your own username
-<<<<<<< HEAD
     version="0.0.3",
-=======
-    version="0.0.2",
->>>>>>> 4ef46b43cfe76cd92cc91152d7835e93e6befe06
     author="collin-campbell",
     description="A collection of data science functions",
     long_description=long_description,
@@ -25,8 +21,3 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-<<<<<<< HEAD
-)
-=======
-)
->>>>>>> 4ef46b43cfe76cd92cc91152d7835e93e6befe06
